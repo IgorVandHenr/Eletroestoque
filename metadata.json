@@ -1,0 +1,6 @@
+{
+  "name": "EletroEstoque",
+  "description": "Sistema de gestão de estoque inteligente para componentes de Arduino e eletrônicos com alertas automáticos de reposição e controle rigoroso de SKU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
